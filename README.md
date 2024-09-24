@@ -6,7 +6,6 @@
 ![project_section](https://github.com/user-attachments/assets/9a80c2e5-eebc-431b-8d42-b698131789bb)
 ![login_page](https://github.com/user-attachments/assets/406ecb56-5cf2-4d2e-b66e-0796991c1b59)
 ![account_page](https://github.com/user-attachments/assets/017b3a5e-d78c-4bbf-86ce-d764a0cbbdcc)
-Note: for running this project you need to install some dependencies.(ofcourse python and django installed be must. )
-      after installing dependencies this project will run perfectly.
-      
+Note: for running this project you need to install some dependencies.(ofcourse python and django installed be must.)
+    
     
